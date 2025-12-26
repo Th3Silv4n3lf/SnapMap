@@ -125,6 +125,6 @@ snap-map/                         → Project root
 ---
 
 # 💬 Contact
-Reach out to me on Discord, ID: abdul230898
+Reach out to me on Discord, ID: `terrormanzero` aka `terror_quota`
 
 
